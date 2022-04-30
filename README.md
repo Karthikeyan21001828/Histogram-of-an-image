@@ -7,19 +7,18 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import opencv and matplotlib for equalization and display it
 
 ### Step2:
-<br>
-
+Find tthe histogram using cv2.calcHiist()
 ### Step3:
-<br>
+Display them using matplotlib
 
 ### Step4:
-<br>
+Find the equaliation using cv2.equalizeHist() 
 
 ### Step5:
-<br>
+Display it using matplotlib
 
 ## Program:
 ```
